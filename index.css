@@ -22,7 +22,7 @@ body {
 
 .intro-container {
   background-color: rgb(255, 250, 250);
-  background-image: url("intro-background.svg");
+  background-image: url("../../images/intro-background.svg");
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
@@ -88,8 +88,8 @@ main {
 
 .products-container {
   width: 100%;
-  background-image: url("home-page-circles-left.png"),
-    url("home-page-circles.png");
+  background-image: url("../../images/home-page-circles-left.png"),
+    url("../../images/home-page-circles.png");
   background-repeat: no-repeat, no-repeat;
   background-size: 20%;
   background-position-y: 60%;
